@@ -30,3 +30,14 @@ body {
 .established {
     font-style: italic;
 }
+h1 {
+    font-size: 40px;
+  }
+h2 {
+    font-size: 30px;
+  }
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
